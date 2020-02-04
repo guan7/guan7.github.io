@@ -5,7 +5,7 @@
     <link>https://guanyu7.top/publication_types/</link>
       <atom:link href="https://guanyu7.top/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://guanyu7.top/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
@@ -13,26 +13,10 @@
     </image>
     
     <item>
-      <title>3</title>
-      <link>https://guanyu7.top/publication_types/3/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://guanyu7.top/publication_types/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2</title>
       <link>https://guanyu7.top/publication_types/2/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://guanyu7.top/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://guanyu7.top/publication_types/1/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://guanyu7.top/publication_types/1/</guid>
       <description></description>
     </item>
     
