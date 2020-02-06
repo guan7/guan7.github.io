@@ -5,7 +5,7 @@
     <link>https://guanyu7.top/publication_types/2/</link>
       <atom:link href="https://guanyu7.top/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://guanyu7.top/images/icon_hub1c6c4a910a03f95f14745b6336a6213_3302_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,34 +13,34 @@
     </image>
     
     <item>
-      <title>Numerical computation for orthogonal low-rank approximation of tensors</title>
-      <link>https://guanyu7.top/publication/journal-article4/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://guanyu7.top/publication/journal-article4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Convergence analysis of an SVD-based algorithm for the best rank-1 tensor approximation</title>
       <link>https://guanyu7.top/publication/journal-article3/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://guanyu7.top/publication/journal-article3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SVD-based algorithms for the best rank-1 approximation of a symmetric tensor</title>
-      <link>https://guanyu7.top/publication/journal-article2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://guanyu7.top/publication/journal-article2/</guid>
+      <title>Numerical computation for orthogonal low-rank approximation of tensors</title>
+      <link>https://guanyu7.top/publication/journal-article4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guanyu7.top/publication/journal-article4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solutions of minus partial ordering equations over von Neumann regular rings</title>
       <link>https://guanyu7.top/publication/journal-article1/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://guanyu7.top/publication/journal-article1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVD-based algorithms for the best rank-1 approximation of a symmetric tensor</title>
+      <link>https://guanyu7.top/publication/journal-article2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guanyu7.top/publication/journal-article2/</guid>
       <description></description>
     </item>
     
